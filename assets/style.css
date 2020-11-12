@@ -1,0 +1,9 @@
+#map {
+  position: relative;
+}
+#basemap{
+  position: absolute;
+}
+#shipLine{
+  position: absolute;
+}
